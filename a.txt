@@ -1,0 +1,82 @@
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>0</th>
+      <th>1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>86</th>
+      <td>0</td>
+      <td>0.077674</td>
+    </tr>
+    <tr>
+      <th>160</th>
+      <td>0</td>
+      <td>0.188570</td>
+    </tr>
+    <tr>
+      <th>168</th>
+      <td>0</td>
+      <td>0.204930</td>
+    </tr>
+    <tr>
+      <th>191</th>
+      <td>0</td>
+      <td>0.279280</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>0</td>
+      <td>0.333720</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>71</th>
+      <td>1</td>
+      <td>2143.900000</td>
+    </tr>
+    <tr>
+      <th>150</th>
+      <td>1</td>
+      <td>2399.900000</td>
+    </tr>
+    <tr>
+      <th>100</th>
+      <td>1</td>
+      <td>2967.700000</td>
+    </tr>
+    <tr>
+      <th>165</th>
+      <td>1</td>
+      <td>3249.100000</td>
+    </tr>
+    <tr>
+      <th>194</th>
+      <td>1</td>
+      <td>4673.600000</td>
+    </tr>
+  </tbody>
+</table>
+<p>200 rows × 2 columns</p>
+</div>
